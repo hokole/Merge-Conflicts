@@ -1,3 +1,3 @@
-# second-branch-2
+# third-branch
 
 App Academy's merge conflict study
